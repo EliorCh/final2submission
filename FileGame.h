@@ -7,49 +7,32 @@ constexpr int FALSE_SILENT_DELAY=10;
 
 class FileGame : public GameBase {
 private:
-    bool silentMode;
-    Steps steps;
-    Results expectedResults, actualResults;
-    bool testPassed;
-    int delay;
-    std::vector<std::string> errors;
+    bool silentMode; // true in -load -silent mode
+    Results* expectedResults = nullptr;  // expected results loaded from .results file
+    bool testPassed = false;     
+    std::vector<std::string> failures;   // descriptions of test mismatches
+
+    bool validateScreensHeader(std::ifstream &file) const;
+    bool loadStepsFromFile(const std::string& filename);
+    bool loadResultsFromFile(const std::string &filename);
+
+    void compareResults();
+    void printTestSummary() const;
+
 
 protected:
-    void handleInput() override;
-
-    bool handleRiddles(Player &player) override;
-
+    void handleInput() override;     // Reads input from steps file instead of keyboard
     void render() override;
-
-    bool loadStepsFromFile();
-
-    void onScreenChange(PlayerID id, int room) override {
-        actualResults.addScreenChange(gameCycles, id, room);
+    int getDelay() const override {  // Controls game speed (no delay in silent mode)
+        return silentMode ? 0 : LOAD_DELAY;
     }
-
-    void onLifeLost(PlayerID id) override {
-        actualResults.addLifeLost(gameCycles, id);
-    }
-
-    void onRiddle(PlayerID id, bool correct) override {
-        actualResults.addRiddle(gameCycles, id, correct);
-    }
-
-    void onGameEnd() override {
-        actualResults.addGameEnd(gameCycles,players[0].getScore(), players[1].getScore());
-    }
-
-    int getDelay() const override { return silentMode ? 0 : FALSE_SILENT_DELAY; }
-
-    void handleError(const std::string& msg) override;
-    void handleMessage(const std::string& msg) override;
+    bool getRiddleAnswer(Riddle* riddle, bool& outSolved) override;
+    void onPlayerDeath() override;
+    void onGameEnd() override;
 
 public:
-    explicit FileGame(bool silent);
+    explicit FileGame(bool silent) : GameBase(), silentMode(silent) { }
+    ~FileGame () override {delete expectedResults;}
 
-    ~FileGame();
-
-    bool didTestPass() const { return testPassed; }
-    void compareResults();
-
+    bool loadFileGameResources();
 };

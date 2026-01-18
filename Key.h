@@ -1,34 +1,26 @@
 #pragma once
+#include "Collectible.h"
 #include "Point.h"
 
-class Key {
+//  Key class - represents a collectible key that opens a specific door
+//  Inherits common functionality from Collectible base class
+
+class Key : public Collectible {
 private:
-	Point pos;           // Position on the board
-	int DoorID;          // Which door does the key open
-	char figure = 'K';
-	bool active;         // True if key is on board
+	int doorID;          // Which door does the key open
+
 public:
-	Key() : pos(0, 0), DoorID(-1), figure('K'), active(false)   // default ctor 
-	{
-	}
+	// Default constructor
+	Key() : Collectible(Item{ItemType::KEY, -1}, Point(0, 0), BOARD_KEY, false), doorID(-1) {}
 
-	Key(Point _pos, int _DoorID)                // custom ctor 
-		: pos(_pos), DoorID(_DoorID), active(true)
-	{
-	}
+	// Custom constructor
+	Key(Point _pos, int _xDoorID, int _idx)
+        : Collectible(Item{ItemType::KEY, _idx}, _pos, BOARD_KEY, true), doorID(_xDoorID) {}
 
-	// Set Functions
-	void setPos(Point _pos) {pos = _pos;}
-	void setDoorId(int id) { DoorID = id; }
+	// DoorID Functions
+	void setDoorId(int id) { doorID = id; }
+	int getDoorID() const { return doorID; }
 
-	// Get Functions
-	bool isActive() const { return active; }
-	Point getPos() const { return pos; }
-	int getDoorID() const { return DoorID; }
-	char getFigure() const { return figure; }
-	
-	void activate() { active = true; }          // Marks the key as available (visible on screen).
-	void deactivate() { active = false; }       // Marks the key as collected (no longer visible).
 };
 
 

@@ -1,0 +1,934 @@
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=4,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=4,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=4,9 next=5,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=4,9 next=5,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=5,9 next=6,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=5,9 next=6,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=6,9 next=7,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=6,9 next=7,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=7,9 next=8,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=7,9 next=8,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=8,9 next=9,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=8,9 next=9,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=9,9 next=10,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=9,9 next=10,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=10,9 next=11,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=10,9 next=11,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=11,9 next=12,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=11,9 next=12,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=12,9 next=13,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=12,9 next=13,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=13,9 next=14,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=13,9 next=14,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=14,9 next=15,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=14,9 next=15,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=15,9 next=16,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=15,9 next=16,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=16,9 next=17,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=16,9 next=17,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=17,9 next=18,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=17,9 next=18,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=18,9 next=19,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=18,9 next=19,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=19,9 next=20,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=19,9 next=20,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=20,9 next=21,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=20,9 next=21,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=21,9 next=22,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=21,9 next=22,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=22,9 next=23,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=22,9 next=23,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=23,9 next=24,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=23,9 next=24,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=24,9 next=25,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=24,9 next=25,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=25,9 next=26,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=25,9 next=26,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=26,9 next=27,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=26,9 next=27,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=27,9 next=28,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=27,9 next=28,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=28,9 next=29,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=28,9 next=29,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=29,9 next=30,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=29,9 next=30,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=30,9 next=31,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=30,9 next=31,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=31,9 next=32,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=31,9 next=32,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=32,9 next=33,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=32,9 next=33,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=33,9 next=34,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=33,9 next=34,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=34,9 next=35,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=34,9 next=35,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=35,9 next=36,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=35,9 next=36,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=36,9 next=37,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=36,9 next=37,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=37,9 next=38,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=37,9 next=38,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=38,9 next=39,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=38,9 next=39,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=39,9 next=40,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=39,9 next=40,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=40,9 next=41,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=40,9 next=41,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=41,9 next=42,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=41,9 next=42,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=42,9 next=43,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=42,9 next=43,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=43,9 next=44,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=43,9 next=44,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=44,9 next=45,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=44,9 next=45,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=45,9 next=46,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=45,9 next=46,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=46,9 next=47,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=46,9 next=47,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=47,9 next=48,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=47,9 next=48,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=48,9 next=49,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=48,9 next=49,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=49,9 next=50,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=49,9 next=50,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=50,9 next=51,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=50,9 next=51,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=51,9 next=52,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=51,9 next=52,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=52,9 next=53,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=52,9 next=53,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=53,9 next=54,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=53,9 next=54,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=54,9 next=55,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=54,9 next=55,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=55,9 next=56,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=55,9 next=56,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=56,9 next=57,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=56,9 next=57,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,9 next=57,8 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,9 next=57,8 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,8 next=57,7 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,8 next=57,7 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,7 next=57,6 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,7 next=57,6 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,6 next=57,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,6 next=57,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,5 next=57,4 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,5 next=57,4 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,4 next=57,3 tip=57,3 base=57,1 currSize=3 compression=0
+  -> at tip, opposite=1
+  -> COMPRESSED, newSize=2
+handlePlayer: pos=3,9 next=3,9 tip=57,2 base=57,1 currSize=2 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,3 next=57,2 tip=57,2 base=57,1 currSize=2 compression=1
+  -> at tip, opposite=1
+  -> COMPRESSED, newSize=1
+handlePlayer: pos=3,9 next=3,9 tip=57,1 base=57,1 currSize=1 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,2 next=57,1 tip=57,1 base=57,1 currSize=1 compression=2
+  -> at tip, opposite=1
+  -> COMPRESSED, newSize=0
+handlePlayer: pos=3,9 next=3,9 tip=57,1 base=57,1 currSize=0 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,0 tip=57,1 base=57,1 currSize=0 compression=3
+  -> checking launch: isBody=1 opposite=1
+  -> LAUNCH!
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=56,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=56,1 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=56,1 next=55,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=56,1 next=55,1 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=55,1 next=55,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=55,1 next=55,2 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=55,2 next=55,3 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=55,2 next=55,3 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=55,3 next=55,4 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=55,3 next=55,4 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=55,4 next=55,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=55,4 next=55,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=55,5 next=56,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=55,5 next=56,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=56,5 next=57,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=56,5 next=57,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,5 next=58,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,5 next=58,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,5 next=58,4 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,5 next=58,4 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,4 next=58,3 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,4 next=58,3 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,3 next=58,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,3 next=58,2 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,2 next=58,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,2 next=58,1 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,1 next=57,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,1 next=57,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,1 next=57,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,1 next=57,1 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,1 next=58,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,1 next=58,2 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,2 next=58,3 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,2 next=58,3 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,3 next=58,4 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,3 next=58,4 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,4 next=58,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,4 next=58,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=58,5 next=57,5 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=58,5 next=57,5 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,5 next=57,4 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=57,5 next=57,4 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,4 next=57,3 tip=57,3 base=57,1 currSize=3 compression=0
+  -> at tip, opposite=1
+  -> COMPRESSED, newSize=2
+handlePlayer: pos=3,9 next=3,9 tip=57,2 base=57,1 currSize=2 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,3 next=57,2 tip=57,2 base=57,1 currSize=2 compression=1
+  -> at tip, opposite=1
+  -> COMPRESSED, newSize=1
+handlePlayer: pos=3,9 next=3,9 tip=57,1 base=57,1 currSize=1 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,2 next=57,1 tip=57,1 base=57,1 currSize=1 compression=2
+  -> at tip, opposite=1
+  -> COMPRESSED, newSize=0
+handlePlayer: pos=3,9 next=3,9 tip=57,1 base=57,1 currSize=0 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,0 tip=57,1 base=57,1 currSize=0 compression=3
+  -> checking launch: isBody=1 opposite=1
+  -> LAUNCH!
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+handlePlayer: pos=57,1 next=57,2 tip=57,3 base=57,1 currSize=3 compression=0
+  -> BLOCKED (side entry)
+handlePlayer: pos=3,9 next=3,9 tip=57,3 base=57,1 currSize=3 compression=0
+  -> NONE
+handlePlayer: pos=3,9 next=3,9 tip=4,15 base=1,15 currSize=4 compression=0
+  -> NONE
+LAUNCH in GameBase: force=3 springDir=1 playerPosBefore=57,1
+LAUNCH after accel: playerDir=1 forcedDir=1

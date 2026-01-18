@@ -1,18 +1,14 @@
 #include "Utils.h"
 #include <iostream>
-#include "Point.h"
 using namespace std;
 
 #ifndef _WIN32
 #include <unistd.h>
 #include <termios.h>
 #include <sys/select.h> 
-#include <fcntl.h>
 
 static struct termios oldSettings;
 #endif
-
-void Utils::gotoxy(const Point pos) {return gotoxy(pos.getX(), pos.getY());}
 
 void Utils::gotoxy(int x, int y) {
 #ifdef _WIN32
@@ -37,7 +33,7 @@ bool Utils::hasInput() {
 	fd_set fds;
 	FD_ZERO(&fds);
 	FD_SET(STDIN_FILENO, &fds);
-	return select(STDIN_FILENO + 1, &fds, NULL, NULL, &tv) > 0;
+	return select(STDIN_FILENO + 1, &fds, nullptr, nullptr, &tv) > 0;
 #endif
 }
 
@@ -53,10 +49,15 @@ char Utils::getChar() {
 
 std::string Utils::toUpperCase(std::string str) {
 	for (auto& c : str) {
-		c = toupper(c);
+		c = static_cast<char>(toupper(c));
 	}
 	return str;
 }
+
+void Utils::delay(int ms)
+{
+	std::this_thread::sleep_for(std::chrono::milliseconds(ms));
+};
 
 void Utils::hideCursor() {
 #ifdef _WIN32
@@ -111,4 +112,11 @@ void Utils::restoreConsole() {
 	tcsetattr(STDIN_FILENO, TCSANOW, &oldSettings);
 #endif
 	showCursor();
+}
+
+void Utils::printCentered(const std::string& text, int y) {
+	int x = getCenteredX(text.length());
+	if (x < 0) x = 0;
+	gotoxy(x, y);
+	std::cout << text;
 }

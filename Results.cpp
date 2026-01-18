@@ -1,62 +1,161 @@
-#include <limits>
-#include <fstream>
 #include "Results.h"
+#include <fstream>
+#include <sstream>
+#include <iomanip>
 
-Results Results::loadResults(const std::string& filename) {
-    std::ifstream results_file(filename);
-    Results results;
-    size_t size;
-    results_file >> size;
-    while (!results_file.eof() && size-- != 0) {
-        size_t iteration;
-        int result;
-        results_file >> iteration >> result;
-        results.addResult(iteration, static_cast<ResultValue>(result));
-    }
-    return results;
+
+bool Results::ResultEntry::operator==(const ResultEntry& other) const
+{
+	if (type != other.type)
+		return false;
+
+	switch (type)
+	{
+	case ResultType::ScreenChange:
+		return screenId == other.screenId;
+
+	case ResultType::LostLife:
+		return true;
+
+	case ResultType::Riddle:
+		return riddle == other.riddle &&
+			answer == other.answer &&
+			correct == other.correct;
+
+	case ResultType::GameEnd:
+		return score == other.score;
+	}
+
+	return false;
 }
 
-void Results::saveResults(const std::string& filename) const {
-    std::ofstream file(filename);
-    file << events.size() << '\n';
+Results* Results::loadResults(std::ifstream& file){
+	std::string line;
 
-    for (const auto& e : events) {
-        switch (e.type) {
-            case SCREEN_CHANGE:
-                // cycle SCREEN player room
-                file << e.cycle << " SCREEN " << e.player << ' ' << e.data1 << '\n';
-                break;
-            case LIFE_LOST:
-                // cycle LIFE player
-                file << e.cycle << " LIFE " << e.player << '\n';
-                break;
-            case RIDDLE_ANSWERED:
-                // cycle RIDDLE player correct
-                file << e.cycle << " RIDDLE " << e.player << ' ' << e.correct << '\n';
-                break;
-            case GAME_END:
-                // cycle END score1 score2
-                file << e.cycle << " END " << e.data1 << ' ' << e.data2 << '\n';
-                break;
-        }
-    }
-    file.close();
+	// Search for "results" section header (skip empty / unrelated lines)
+	while (std::getline(file, line)) {
+		if (!line.empty() && line == "results")
+			break;
+	}
+
+	// "results" header not found
+	if (file.eof())
+		return nullptr;
+
+	const auto results = new Results();
+
+	// Read result entries line by line
+	while (std::getline(file, line)) {
+		if (line.empty())
+			break;  // end of results section
+
+		// Parse single result entry
+		if (!results->parseResultLine(line)) {
+			delete results;
+			return nullptr;
+		}
+	}
+	return results;
 }
 
-/*void Results::saveResults(const std::string& filename) {
-    std::ofstream results_file(filename);
-    results_file << results.size();
-    for (const auto& result : results) {
-        results_file << '\n' << result.first << ' ' << result.second;
-    }
-    results_file.close();
-}*/
+bool Results::parseResultLine(const std::string& line)
+{
+	std::istringstream iss(line);
 
-size_t Results::getNextBombIteration() {
-    if (!results.empty() && results.front().second == hitBomb)
-        return results.front().first;
+	size_t iteration;
+	std::string type;
 
-    return std::numeric_limits<size_t>::max(); // a big number we will never reach
+	// Parse common prefix: iteration + result type
+	if (!(iss >> iteration >> type))
+		return false;
+
+	if (type == "ScreenChange") {  // Screen changeP: <iteration> ScreenChange <screenId>
+		int screenId;
+		if (!(iss >> screenId))
+			return false;
+		addScreenChange(iteration, screenId);
+	}
+	else if (type == "LostLife") { // Player lost life: <iteration> LostLife
+		addLostLife(iteration);
+	}
+	else if (type == "GameEnd") {  // Game ended: <iteration> GameEnd <finalScore>
+		int finalScore;
+		if (!(iss >> finalScore))
+			return false;
+		addGameEnd(iteration, finalScore);
+	}
+	else if (type == "Riddle") {         // Riddle interaction:
+		std::string riddle, answer;      // <iteration> Riddle "<riddle>" "<answer>" <correct>
+		bool correct;
+
+		if (!(iss >> std::quoted(riddle) >> std::quoted(answer) >> correct))
+			return false;
+
+		addRiddleRes(iteration, riddle, answer, correct);
+	}
+	else {   // Unknown result type
+		return false;
+	}
+
+	return true;
 }
 
-;
+bool Results::getRiddleAtIteration(size_t iter, std::string& q, std::string& a, bool& ok) const
+{
+	for (const auto& entry : results) {
+	if (entry.first == iter && entry.second.type == ResultType::Riddle) {
+		q = entry.second.riddle;   // question
+		a = entry.second.answer;   // answer from file
+		ok = entry.second.correct; // expected correctness
+		return true;
+		}
+	}
+	return false;
+}
+
+bool Results::saveResults(const std::string& filename,
+	const std::vector<std::string>& screenFiles) const 
+{
+	std::ofstream file(filename);    // Saves results to file (overwrites if exists).
+	if (!file)
+		return false;
+
+	file << "# screens\n";
+	// Write screen files header to ensure replay consistency
+	for (const auto& name : screenFiles) {   
+		file << name << '\n';
+	}
+
+	// results header
+	file << "# results\n";
+	// Each entry: <iteration> <TYPE> <data...>
+	for (const auto& entry : results) {
+		size_t iteration = entry.first;
+		const ResultEntry& res = entry.second;
+
+		file << iteration << ' ';
+
+		switch (res.type) {
+		case ResultType::ScreenChange:
+			file << "SCREEN_CHANGE " 
+				<< res.screenId;
+			break;
+
+		case ResultType::LostLife:
+			file << "LOST_LIFE";
+			break;
+
+		case ResultType::Riddle:
+			file << "RIDDLE " 
+				<< res.riddle << ' ' << res.answer << ' ' << res.correct;
+			break;
+
+		case ResultType::GameEnd:
+			file << "GAME_END "
+				<< res.score;
+			break;
+		}
+		file << '\n';
+	}
+	return true;
+}

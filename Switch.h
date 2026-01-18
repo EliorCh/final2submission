@@ -1,35 +1,40 @@
 #pragma once
 #include "Point.h"
 
-class Switch
-{
+//  Switch class - represents a switch that can toggle to affect door states
+//  Inherits from DoorElement for common door-related functionality
+
+class Switch : public DoorElement {
 private:
-	Point pos;         // Position of the switch on the board  
-	int doorID;        // The door this switch is linked to
 	bool state;        // True = ON, False = OFF
-	char figure;       // Character drawn on screen ('/' or 'o')
+
+	void updateFigure() {
+		figure = state ? BOARD_SWITCH_ON : BOARD_SWITCH_OFF;
+	}
 
 public:
-	Switch(): pos(0, 0), doorID(-1), state(false),figure('o')     // default ctor 
-	{
-	}
-	Switch(Point _pos, int _doorID, bool _state)      // custom ctor     
-		: pos(_pos), doorID(_doorID), state(_state)
-	{
-		figure = _state ? '/' : 'o';
-	}
+	enum class SwitchRule { ALL_ON, ALL_OFF, NO_RULE };  // combinations of switches to open the door:
+	// Default constructor
+	Switch()
+		: DoorElement(Point(0, 0), -1, BOARD_SWITCH_OFF),
+		  state(false) {}
 
-	void setDoorId(int id) { doorID = id; }
+	// Custom constructor
+	Switch(Point _pos, int _doorID, bool _state)
+		: DoorElement(_pos, _doorID, _state ? BOARD_SWITCH_ON : BOARD_SWITCH_OFF),
+		  state(_state) {}
 
-	// Get Functions
-	Point getPos() const { return pos; }
-	int getDoorID() const { return doorID; }
+	// State management
 	bool getState() const { return state; }
-	char getFigure() const { return state ? '/' : 'o'; }\
 
-	void toggle()  // Toggles the switch state. If it was ON, it becomes OFF, and vice versa
-	{
-		state = !state;
+	// Override getFigure to return current state character
+	char getFigure() const override {
+		return state ? BOARD_SWITCH_ON : BOARD_SWITCH_OFF;
 	}
 
+	// Toggles the switch state
+	void toggle() {
+		state = !state;
+		updateFigure();
+	}
 };
