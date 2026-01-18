@@ -3,7 +3,9 @@
 #include "GameBase.h"
 
 int main(int argc, char* argv[]) {
-	bool saveMode, loadMode, silentMode = false;
+	bool saveMode = false;
+	bool loadMode = false;
+	bool silentMode = false;
 
 	for (int i = 1; i < argc; i++) {
 		if (strcmp(argv[i], "-save") == 0) saveMode = true;
@@ -13,9 +15,11 @@ int main(int argc, char* argv[]) {
 
 	if (loadMode) {
 		FileGame game(silentMode);
+		if (!game.loadFileGameResources()) {
+			return 0;  // file upload failed
+		}
 		game.run();
 	}
-
 	else {
 		KeyboardGame game(saveMode);
 		game.showMenu();

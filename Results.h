@@ -1,80 +1,68 @@
 #pragma once
 #include <list>
 #include <string>
-//#include <fstream>
-#include "GameDefs.h"
+#include <utility>
+#include <vector>
+#include <fstream>
 
 class Results {
-public:
-    enum EventType { SCREEN_CHANGE, LIFE_LOST, RIDDLE_ANSWERED, GAME_END };
-
-    struct Event {
-        size_t cycle;
-        EventType type;
-        PlayerID player;
-        int data1;       // room number / score1
-        int data2;       // score2 (for GAME_END)
-        bool correct;    // for RIDDLE
-    };
-
 private:
-    std::list<Event> events;
+    enum class ResultType { ScreenChange, LostLife, Riddle, GameEnd };
+
+    struct ResultEntry {
+        ResultType type;
+
+        int screenId = -1;        // ScreenChange
+        std::string riddle;       // Riddle
+        std::string answer;       // Riddle
+        bool correct = false;     // Riddle
+        int score = 0;            // GameEnd
+
+        explicit ResultEntry(ResultType t)  // LostLife
+            : type(t) {
+        }
+        ResultEntry(ResultType t, int screen) //ScreenChange
+            : type(t), screenId(screen) {
+        }
+        ResultEntry(ResultType t, std::string  r, std::string  a, bool c)  // Riddle
+            : type(t), riddle(std::move(r)), answer(std::move(a)), correct(c) {
+        }
+        ResultEntry(ResultType t, int finalScore, bool)  // GameEnd
+            : type(t), score(finalScore) {
+        }
+
+        bool operator==(const ResultEntry& other) const;
+    };
+    std::list<std::pair<size_t, ResultEntry>> results;    // pair: <iteration, result entry>
+
+    bool parseResultLine(const std::string& line);
 
 public:
-    static Results loadResults(const std::string& filename);
+    const std::list<std::pair<size_t, Results::ResultEntry>>&
+        getResults() const { return results; }
 
-    void saveResults(const std::string &filename) const;
+    bool getRiddleAtIteration(size_t iter,std::string& q, std::string& a, bool& ok) const;
 
-    /*void addResult(size_t iteration, EventType type) {
-        events.emplace_back(Event{iteration, type, PLAYER_1, 0, 0, false});
-    }*/
-
-    void addScreenChange(size_t cycle, PlayerID player, int room) {
-        events.push_back({cycle, SCREEN_CHANGE, player, room, 0, false});
+    void addResult(size_t iteration, const ResultEntry& entry) {
+        results.emplace_back( iteration, entry );
     }
 
-    void addLifeLost(size_t cycle, PlayerID player) {
-        events.push_back({cycle, LIFE_LOST, player, 0, 0, false});
+    void addScreenChange(size_t iteration, int screenId){
+        addResult(iteration, ResultEntry(ResultType::ScreenChange, screenId));
+    }
+    void addLostLife(size_t iteration){
+        addResult(iteration, ResultEntry(ResultType::LostLife));
+    }
+    void addGameEnd(size_t iteration, int finalScore){
+        addResult(iteration, ResultEntry(ResultType::GameEnd, finalScore, true));
+    }
+    void addRiddleRes(size_t iteration, const std::string& riddle, 
+        const std::string& answer, bool correct) {
+        addResult(iteration, ResultEntry(ResultType::Riddle, riddle, answer, correct));
     }
 
-    void addRiddle(size_t cycle, PlayerID player, bool correct) {
-        events.push_back({cycle, RIDDLE_ANSWERED, player, 0, 0, correct});
-    }
+    static Results* loadResults(std::ifstream& file);
+    bool saveResults(const std::string& filename,
+        const std::vector<std::string>& screenFiles) const;
 
-    void addGameEnd(size_t cycle, int score1, int score2) {
-        events.push_back({cycle, GAME_END, PLAYER_1, score1, score2, false});
-    }
-
-    bool hasMoreEvents() const { return !events.empty(); }
-
-    Event peekEvent() const {
-        return events.empty() ? Event{0, GAME_END, PLAYER_1, 0, 0, false} : events.front();
-    }
-
-    Event popEvent() {
-        if (events.empty()) return {0, GAME_END, PLAYER_1, 0, 0, false};
-        Event e = events.front();
-        events.pop_front();
-        return e;
-    }
-
-    bool getNextRiddleResult() {
-        for (auto& e : events) {
-            if (e.type == RIDDLE_ANSWERED) {
-                return e.correct;
-            }
-        }
-        return false;
-    }
-
-    static std::pair<size_t, ResultValue> popResult() {
-        if (results.empty()) return { 0, Results::noResult };
-        auto result = results.front();
-        results.pop_front();
-        return result;
-    }
-    static bool isFinishedBy(size_t iteration) {
-        return results.empty() || results.back().first <= iteration;
-    }
-    static size_t getNextBombIteration() ;
 };

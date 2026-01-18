@@ -1,35 +1,57 @@
 #pragma once
 #include "Point.h"
 #include <vector>
+#include "Collectible.h"
 
-class Bomb {
+// Bomb Constants
+constexpr int BOMB_BLAST_RADIUS = 3;
+constexpr int BOMB_INITIAL_TIMER = 5;
+class Screen;
+using Ray = std::vector<Point>;
+using BlastPattern = std::vector<Ray>;
+
+
+//  Bomb class - represents a collectible/placeable bomb with explosion mechanics
+//  Inherits common functionality from Collectible base class
+
+class Bomb : public Collectible {
 private:
-    Point pos;               // Position of the bomb of the board
-    char figure = '@'; 
-    int timer = 5;           // Countdown until explosion
-    bool active;             // True if the bomb exists on the board
-    bool ticking = false;    // True if the timer is currently decreasing
+    int timer;                  // Countdown until explosion
+    bool ticking;               // True if the timer is currently decreasing
 
 public:
-    Bomb() : pos(0, 0), figure('@'), timer(5), active(false), ticking(false)   // default ctor 
-    {
-    }
-    explicit Bomb(Point _pos)                    // custom ctor     
-        : pos(_pos), timer(5), active(true), ticking(false)
-    {
-    }    
+    // Default constructor
+    Bomb() : Collectible(Item{ItemType::BOMB, -1},Point(0, 0), BOARD_BOMB, false),
+    timer(BOMB_INITIAL_TIMER),
+    ticking(false) {}
 
-    // Get / Set Functions
-    void setPos(const Point& p) { pos = p; }
-    Point getPos() const { return pos; }
-    char getFigure() const { return figure; }
+    // Constructor for temp bombs
+    explicit Bomb(Point _pos)
+    : Collectible(Item{ItemType::BOMB, -1},_pos, BOARD_BOMB, true),
+      timer(BOMB_INITIAL_TIMER),
+      ticking(false) {}
 
-    void activate() { active = true; }
-    void deactivate() { active = false; }
-    bool isActive() const { return active; }
+    // Custom constructor
+    Bomb(Point _pos, int _idx)
+    : Collectible(Item{ItemType::BOMB, _idx},_pos, BOARD_BOMB, true),
+      timer(BOMB_INITIAL_TIMER),
+      ticking(false) {}
+
+    // Timer and ticking state
     bool isTicking() const { return ticking; }
     void setTicking() { ticking = true; }
+    bool canPickUp() const override { return !ticking; }
+
+    // Bomb actions
+    void dispose(const Point& p) override { arm(p);}
     void arm(const Point& p);
     bool tick();
-    static std::vector<std::vector<Point>> getBlastPattern(Point center, int radius);
+
+    // Static bomb management
+    static void manageBombs(std::vector<Bomb>& bombs, Screen& room, Ray& dangerZone);
+
+    // Explosion mechanics
+    Ray explode(Screen& room) const;
+    static BlastPattern getBlastPattern(Point center, int radius);
+
 };

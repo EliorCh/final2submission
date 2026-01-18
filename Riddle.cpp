@@ -6,41 +6,46 @@ void Riddle::setData(const std::string& q, const std::string& a)
     answer = a;
 }
 
-void Riddle::printUI() const { //function helped by GEMINI
-    constexpr char BORDER = '?';
-    const int INDENT = 8;
-    const int WIDTH = (std::max)(static_cast<int>(question.length()) + 4, 44);
+//function helped by GEMINI
+void Riddle::printUI() const {
+    const int boxWidth = (std::max)(static_cast<int>(question.length()) + 10, 44);
+    int startX = Utils::getCenteredX(boxWidth);
+    if (startX < 0) startX = 0;
+    int startY = (SCREEN_HEIGHT - boxWidth) / 2;
+    if (startY < 0) startY = 0;
 
-    auto printRow = [&](std::string const& text = "", bool isLeftAlign = false) {
-        int textLen = static_cast<int>(text.length());
-        int padding = WIDTH - 2 - textLen;
 
-        int padLeft = isLeftAlign ? 1 : padding / 2;
+    auto printBoxRow = [&](int rowOffset, const std::string& content) {
+        int padding = boxWidth - 2 - static_cast<int>(content.length());
+        int padLeft = padding / 2;
         int padRight = padding - padLeft;
 
-        std::cout << std::string(INDENT, ' ') << BORDER
-            << std::string(padLeft, ' ') << text << std::string(padRight, ' ')
-            << BORDER << "\n";
-        };
+        std::string fullRow = BOARD_RIDDLE + std::string(padLeft, ' ') + content
+                             + std::string(padRight, ' ') + BOARD_RIDDLE;
 
-    std::cout << "\n\n";
-    std::cout << std::string(INDENT, ' ') << std::string(WIDTH, BORDER) << "\n";
-    printRow();
-    printRow(question);
-    printRow();
-    printRow("Answer: ", true);
-    std::cout << std::string(INDENT, ' ') << std::string(WIDTH, BORDER) << "\n";
+        Utils::print(startX, startY + rowOffset, fullRow);
+    };
 
-    std::string prompt = "Answer: ";
-    int promptLen = static_cast<int>(prompt.length());
+    Utils::print(startX, startY, std::string(boxWidth, BOARD_RIDDLE));
+    printBoxRow(1, "");
+    printBoxRow(2, question);
+    printBoxRow(3, "");
 
-    Utils::gotoxy(INDENT + 1 + 1 + promptLen, 6);
+    std::string prompt = " Answer: ";
+    printBoxRow(4, prompt);
+
+    Utils::print(startX, startY + 5, std::string(boxWidth, BOARD_RIDDLE));
+    Utils::gotoxy(startX + 1 + static_cast<int>(prompt.length()), startY + 4);
 }
 
-bool Riddle::solve() { // need to be changed
-    if (solved) return true;
+bool Riddle::solve() {
+    if (solved)
+        return true;
 
-    printUI(); // what about silent mode?
+    Utils::clearScreen();
+    Utils::restoreConsole();
+
+    printUI();
 
     std::string input;
     std::cin >> input;
@@ -52,6 +57,7 @@ bool Riddle::solve() { // need to be changed
     std::string formattedInput = "|" + cleanInput + "|";
 
     bool isCorrect = (formattedAnswer.find(formattedInput) != std::string::npos);
+    lastInput = input;
 
     int feedbackRow = 8;
     int indent = 8;
@@ -61,14 +67,19 @@ bool Riddle::solve() { // need to be changed
         std::cout << ">>> CORRECT! You may pass. <<<";
         solved = true;
     }
-    else
+    else {
         std::cout << ">>> WRONG! You shall NOT pass. <<<";
+    }
 
     Utils::gotoxy(indent, feedbackRow + 1);
     std::cout << "Press ENTER to continue...";
 
     std::cin.ignore();
     std::cin.get();
+
+    // Restore screen after riddle interaction
+    Utils::initConsole();
+    Utils::clearScreen();
 
     return solved;
 }
