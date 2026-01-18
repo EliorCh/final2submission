@@ -1,7 +1,6 @@
 #pragma once
 #include <list>
 #include <string>
-#include <utility>
 #include <vector>
 #include <fstream>
 
@@ -24,8 +23,8 @@ private:
         ResultEntry(ResultType t, int screen) //ScreenChange
             : type(t), screenId(screen) {
         }
-        ResultEntry(ResultType t, std::string  r, std::string  a, bool c)  // Riddle
-            : type(t), riddle(std::move(r)), answer(std::move(a)), correct(c) {
+        ResultEntry(ResultType t, const std::string& r, const std::string& a, bool c)  // Riddle
+            : type(t), riddle(r), answer(a), correct(c) {
         }
         ResultEntry(ResultType t, int finalScore, bool)  // GameEnd
             : type(t), score(finalScore) {
@@ -41,10 +40,10 @@ public:
     const std::list<std::pair<size_t, Results::ResultEntry>>&
         getResults() const { return results; }
 
-    bool getRiddleAtIteration(size_t iter,std::string& q, std::string& a, bool& ok) const;
+    bool getRiddleAtIteration(size_t iter, std::string& a) const;
 
     void addResult(size_t iteration, const ResultEntry& entry) {
-        results.emplace_back( iteration, entry );
+        results.push_back({ iteration, entry });
     }
 
     void addScreenChange(size_t iteration, int screenId){

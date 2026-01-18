@@ -1,11 +1,14 @@
 #pragma once
 #include "GameBase.h"
+#include "Utils.h"
+#include "Steps.h"
+#include "Results.h"
+#include <vector>
 
 class KeyboardGame : public GameBase {
 private:
-    static constexpr int NUM_FIXED_SCREENS = 2;  // Menu and Instructions
     bool saveMode;
-    Screen fixedScreens[NUM_FIXED_SCREENS];      // Constant screens like menu\instructions
+    Screen fixedScreens[NUM_SCREENS];  // Constant screens like menu\instructions
 
 protected:
     void handleInput() override;
@@ -17,8 +20,9 @@ protected:
 
 public:
     explicit KeyboardGame(bool save = false);
-    ~KeyboardGame() override;
+    ~KeyboardGame();  
 
     void showMenu();
-    void showInstructions() const;
+    void showInstructions();
+
 };

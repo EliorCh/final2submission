@@ -6,6 +6,7 @@ using namespace std;
 #include <unistd.h>
 #include <termios.h>
 #include <sys/select.h> 
+#include <fcntl.h>
 
 static struct termios oldSettings;
 #endif
@@ -33,7 +34,7 @@ bool Utils::hasInput() {
 	fd_set fds;
 	FD_ZERO(&fds);
 	FD_SET(STDIN_FILENO, &fds);
-	return select(STDIN_FILENO + 1, &fds, nullptr, nullptr, &tv) > 0;
+	return select(STDIN_FILENO + 1, &fds, NULL, NULL, &tv) > 0;
 #endif
 }
 
@@ -49,7 +50,7 @@ char Utils::getChar() {
 
 std::string Utils::toUpperCase(std::string str) {
 	for (auto& c : str) {
-		c = static_cast<char>(toupper(c));
+		c = toupper(c);
 	}
 	return str;
 }
@@ -100,7 +101,7 @@ void Utils::initConsole() {
 #ifndef _WIN32
 	tcgetattr(STDIN_FILENO, &oldSettings);
 	struct termios newSettings = oldSettings;
-	newSettings.c_lflag &= ~(ICANON | ECHO); // ï¿½ï¿½ï¿½ï¿½ï¿½ Enter ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
+	newSettings.c_lflag &= ~(ICANON | ECHO); // ëéáåé Enter åëéáåé äãôñä
 	tcsetattr(STDIN_FILENO, TCSANOW, &newSettings);
 #endif
 	hideCursor();
@@ -112,11 +113,4 @@ void Utils::restoreConsole() {
 	tcsetattr(STDIN_FILENO, TCSANOW, &oldSettings);
 #endif
 	showCursor();
-}
-
-void Utils::printCentered(const std::string& text, int y) {
-	int x = getCenteredX(text.length());
-	if (x < 0) x = 0;
-	gotoxy(x, y);
-	std::cout << text;
 }

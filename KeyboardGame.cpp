@@ -1,26 +1,19 @@
 #include "KeyboardGame.h"
 
-// Local constants for screen indices
-constexpr int MENU_SCREEN_IDX = 0;
-constexpr int INSTRUCTIONS_SCREEN_IDX = 1;
+KeyboardGame::KeyboardGame(bool _saveMode) :GameBase() {
+       Utils::initConsole();
+       this->saveMode = _saveMode;
 
-KeyboardGame::KeyboardGame(bool _saveMode) : GameBase() {
-   Utils::initConsole();
-   this->saveMode = _saveMode;
+       fixedScreens[MENU_SCREEN].setMap(MENU_MAP);
+       fixedScreens[INSTRUCTIONS_SCREEN].setMap(INSTRUCTIONS_MAP);
 
-   fixedScreens[MENU_SCREEN_IDX].setMap(MENU_MAP);
-   fixedScreens[INSTRUCTIONS_SCREEN_IDX].setMap(INSTRUCTIONS_MAP);
+       if (_saveMode) {  // recording steps & results
+           setSteps(new Steps());
+           setResults(new Results());   
+       }
 
-   if (_saveMode) {  // recording steps & results
-       auto* steps = new Steps();
-       steps->setSeed(getGameSeed());
-       setSteps(steps);
-       setResults(new Results());
-   }
-
-   setGame();
-   showMenu();
-
+       setGame();
+       showMenu();  
 
 }
 
@@ -28,31 +21,31 @@ KeyboardGame::~KeyboardGame() = default;
 
 
 void KeyboardGame::handleInput() {
-    if (!Utils::hasInput()) return;  // no key pressed this frame
+        if (!Utils::hasInput()) return;  // no key pressed this frame
 
-    char ch = Utils::getChar();
-    char key = static_cast<char>(std::toupper(ch));
+        char ch = Utils::getChar();
+        char key = static_cast<char>(std::toupper(ch));
 
-    // If the game is already over (final room):
-    // only 'H' should work and return to the main menu
-    if (gameOver) {
-        if (key == HOME) isRunning = false;      // leave run() and go back to menu
-        onGameEnd();
-        return;                                // ignore all other keys in final room
+        // If the game is already over (final room):
+        // only 'H' should work and return to the main menu
+        if (gameOver) {
+            if (key == HOME) isRunning = false;      // leave run() and go back to menu
+            onGameEnd();
+            return;                                // ignore all other keys in final room
+        }
+
+        // Pause the game
+        if (key == ESC) return pauseGame();
+
+        // Player wants to restart room
+        if (key == RESTART) {
+            if (!restartCurrentRoom()) isRunning = false;
+            return;
+        }
+        if (processKey(key) && saveMode) {   // In save mode, record gameplay
+            getSteps()->addStep(gameCycles, key);
+        }
     }
-
-    // Pause the game
-    if (key == ESC_KEY) return pauseGame();
-
-    // Player wants to restart room
-    if (key == RESTART) {
-        if (!restartCurrentRoom()) isRunning = false;
-        return;
-    }
-    if (processKey(key) && saveMode) {   // In save mode, record gameplay
-        getSteps()->addStep(gameCycles, key);
-    }
-}
 
 bool KeyboardGame::getRiddleAnswer(Riddle* riddle, bool& outSolved) {
      
@@ -67,7 +60,8 @@ bool KeyboardGame::getRiddleAnswer(Riddle* riddle, bool& outSolved) {
 void KeyboardGame::onGameEnd()
 {
     // Save game data only in save mode
-    if (!saveMode) return;
+    if (!saveMode)
+        return;
 
     // Retrieve screen source file names from GameBase
     std::vector<std::string> screenFiles = getScreenSourceFiles();
@@ -98,10 +92,10 @@ void KeyboardGame::pauseGame()
     while (true)
     {
         char ch = Utils::getChar(); // Waiting for user's response
-        char c = static_cast<char>(std::toupper(ch));
+        char c = std::toupper(ch);
 
         // If ESC is pressed again - we return to the game
-        if (c == ESC_KEY)
+        if (c == ESC)
         {
             // clearing the pause message
             Utils::gotoxy(5, 10);
@@ -121,7 +115,7 @@ void KeyboardGame::pauseGame()
 void KeyboardGame::showMenu() {
     char choice = '\0';
     while (true) {
-        fixedScreens[MENU_SCREEN_IDX].drawBase();
+        fixedScreens[MENU_SCREEN].drawBase();
         std::cout << std::flush;
 
         char ch = Utils::getChar();
@@ -153,57 +147,56 @@ void KeyboardGame::showMenu() {
     }
 }
 
-// simplified by Gemini
-void KeyboardGame::showInstructions() const
+void KeyboardGame::showInstructions()
 {
     Utils::clearScreen();
-    fixedScreens[INSTRUCTIONS_SCREEN_IDX].drawBase();   // Shows the instructions screen
-
-    // print to x,y using lambada
-    auto print = [](int x, int y, const std::string& text) {
-        Utils::print(x, y, text);
-    };
+    fixedScreens[INSTRUCTIONS_SCREEN].drawBase();   // Shows the instructions screen
 
     // Title
-    print(30, 2, "=== INSTRUCTIONS ===");
+    Utils::gotoxy(30, 2);
+    std::cout << "=== INSTRUCTIONS ===";
 
     // Goal & Basics
-    print(2, 3, "GOAL: Reach Final Room together! Move through rooms and earn points.");
-    print(2, 4, "RESTART ROOM: 'R' || GAME OVER: If any player has 0 Lives.");
-    print(2, 5, "POINTS: Key(10) Door(20) Riddle(10) Win(1st:100/2nd:50).");
+    Utils::gotoxy(2, 3);
+    std::cout << "GOAL: Reach Final Room together! Move through rooms and earn points.";
+    Utils::gotoxy(2, 4);
+    std::cout << "RESTART ROOM: 'R' || GAME OVER: If any player has 0 Lives.";
+    Utils::gotoxy(2, 5);
+    std::cout << "POINTS: Key(10) Door(20) Riddle(10) Win(1st:100/2nd:50).";
 
     // Controls
-    print(4, 7, "CONTROLS:         PLAYER 1      PLAYER 2");
-    print(4, 8, "Move (U/L/D/R):   W/A/X/D       I/J/M/L");
-    print(4, 9, "Stay / Dispose:   S  /  E       K  /  O");
+    Utils::gotoxy(4, 7);
+    std::cout << "CONTROLS:         PLAYER 1      PLAYER 2";
+    Utils::gotoxy(4, 8);
+    std::cout << "Move (U/L/D/R):   W/A/X/D       I/J/M/L";
+    Utils::gotoxy(4, 9);
+    std::cout << "Stay / Dispose:   S  /  E       K  /  O";
 
-    print(4, 11, "ITEMS (Walk over an item to pick it up, max 1 item per player):");
-
-    struct LegendItem { char icon; std::string name; std::string desc; };
-
-    const LegendItem items[] = {
-        { BOARD_KEY,       "Key",      "Collect to open matching doors." },
-        { BOARD_BOMB,      "Bomb",     "Explodes in 5 turns. Destroys players & walls." }, // קיצרתי טיפה כדי שייכנס בטוח
-        { BOARD_TORCH,     "Torch",    "Reveals invisible DARK AREAS (" + std::string(1, DARK_CHAR) + ")." },
-        { ' ',             "Doors",    "Open only when the required keys and switches are set," }, // אין אייקון לדלת כללית כאן
-        { BOARD_RIDDLE,    "Riddle",   "Blocks path! Answer correctly to remove." },
-        { BOARD_SWITCH_ON, "Switch",   "Stepping on it toggles Doors." }, // המקורי הראה גם ON וגם OFF, כאן שמתי אחד
-        { BOARD_SPRING,    "Spring",   "Launches player (High Speed!)." },
-        { BOARD_OBSTACLE,  "Obstacle", "Heavy! Move by High Speed or Teamwork." },
-        { BOARD_TELEPORT,  "Teleport", "Move through portals in the room." }
-    };
-
-    int currentY = 12;
-    for (const auto& item : items) {
-        Utils::gotoxy(6, currentY++);
-        if (item.name == "Doors")
-            std::cout << "+ Doors (0-9): " << item.desc;
-        else
-            std::cout << "+ " << item.name << " (" << item.icon << "): " << item.desc;
-    }
+    Utils::gotoxy(4, 11);
+    std::cout << "ITEMS (Walk over an item to pick it up, max 1 item per player):";
+    Utils::gotoxy(6, 12);
+    std::cout << "+ Key (" << BOARD_KEY << "): Collect to open matching doors.";
+    Utils::gotoxy(6, 13);
+    std::cout << "+ Bomb (" << BOARD_BOMB << "): Explodes in 5 turns. Destroys players & walls (" << WALL_VERT << ' ' << WALL_HORIZ << ").";
+    Utils::gotoxy(6, 14);
+    std::cout << "+ Torch (" << BOARD_TORCH << "): Reveals invisible DARK AREAS (" << DARK_CHAR << ").";
+    Utils::gotoxy(6, 15);
+    std::cout << "Doors: Open only when the required keys and switches are set,";
+    Utils::gotoxy(6, 16);
+    std::cout << "Riddle (" << BOARD_RIDDLE << "): Blocks path! Answer correctly to remove.";
+    Utils::gotoxy(6, 17);
+    std::cout << "Switch (" << BOARD_SWITCH_ON << ' ' << BOARD_SWITCH_OFF << "): Stepping on it toggles Doors.";
+    Utils::gotoxy(6, 18);
+    std::cout << "Spring (" << BOARD_SPRING << "): Launches player (High Speed!).";
+    Utils::gotoxy(6, 19);
+    std::cout << "Obstacle (" << BOARD_OBSTACLE << "): Heavy! Move by High Speed or Teamwork.";
+    Utils::gotoxy(6, 20);
+    std::cout << "Teleport (" << BOARD_TELEPORT << "): Move through portals in the room.";
 
     // Return
-    print(2, 23, "Press any key to return.");
+    Utils::gotoxy(2, 23);
+    std::cout << "Press any key to return.";
+
     std::cout << std::flush;
-    Utils::getChar();   // Wait for user input
+    [[maybe_unused]]char c=Utils::getChar();   // Wait for user input
 }

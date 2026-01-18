@@ -1,94 +1,90 @@
 #pragma once
-#include "DoorElement.h"
+#include "Point.h"
+#include "GameDefs.h"
 
-// SwitchRule - Defines the switch condition required to open a door
-enum class SwitchRule {
-	ALL_ON,   // All linked switches must be ON
-	ALL_OFF,  // All linked switches must be OFF
-	NO_RULE   // No switch requirement
-};
-
-// Door class - represents a door that can be opened with keys and/or switches
-// Inherits from DoorElement for common door-related functionality
-class Door : public DoorElement {
+class Door {
 private:
+	Point pos;             // Position on the board
+	int doorID;            // Logical ID used to match keys and switches to this door
 	int destRoom;          // ID of the room the door leads to
-	bool isOpen;     // Indicates whether the door is open
+	bool isOpen=false;     // Indicates whether the door is open   
 	int neededKeys;        // Number of keys required to open the door
+	char figure;
 
 	SwitchRule rule;       // Type of switch interaction required (if any)
 	bool keyOK;            // True if all required keys have been used
 	bool switchOK;         // True if switch condition is satisfied
 
-	void updateFigure() {
-		figure = static_cast<char>(DIGIT_ZERO + destRoom);
-	}
-
 public:
-	// Default constructor
-	Door() : DoorElement(Point(0, 0), 0, DIGIT_ZERO),
-	destRoom(0), isOpen(false), neededKeys(0),
-		rule(SwitchRule::NO_RULE), keyOK(false),switchOK(false) {}
-
-	// Full custom constructor
-	Door(Point _pos, int _doorID, int _destRoom, int _neededKeys, SwitchRule _rule, bool _keyOK, bool _switchOK)
-        : DoorElement(_pos, _doorID, static_cast<char>(DIGIT_ZERO + _destRoom)),
-          destRoom(_destRoom), neededKeys(_neededKeys),
-          rule(_rule), keyOK(_keyOK), switchOK(_switchOK) {
-		isOpen = false;
+	Door() : pos(0, 0), doorID(0), destRoom(0), isOpen(false), neededKeys(0),  // default ctor 
+		figure('0'), rule(NO_RULE), keyOK(false),switchOK(false)
+	{
 	}
-
-	// Simple constructor (from board parsing)
-	Door(Point _pos, int _dest)
-	: DoorElement(_pos, 0, static_cast<char>(DIGIT_ZERO + _dest)),
-	  destRoom(_dest), isOpen(false), neededKeys(0),
-	  rule(SwitchRule::NO_RULE), keyOK(false), switchOK(false) {}
-
+	Door(Point _pos, int _doorID, int _destRoom, int _neededKeys, SwitchRule _rule,bool _keyOK, bool _switchOK) :      // custom ctor 
+	pos(_pos), doorID(_doorID), destRoom(_destRoom), neededKeys(_neededKeys), rule(_rule), keyOK(_keyOK), switchOK(_switchOK)
+	{
+		figure = '0' + destRoom;
+	}
+	Door(Point _pos, int _dest) : pos(_pos), doorID(0), destRoom(_dest), isOpen(false), neededKeys(0),
+		figure('0' + destRoom), rule(NO_RULE), keyOK(false), switchOK(false)
+	{
+	}
 	// Set Functions
-	// Set flags
 	void setFlags(bool _keyOK, bool _switchOK)
 	{
 		keyOK = _keyOK;           // keyOK: true if the player has used all required keys.
 		switchOK = _switchOK;     // switchOK: true if the required switch is active.
 	}
 
-	// Apply rules from screen file
-	void applyRules(int id, int keys, bool open, int ruleCode) {
+	void applyRules(int id, int keys, int ruleCode)
+	{
 		doorID = id;
 		neededKeys = keys;
-		isOpen = open;
-
 		if (neededKeys == 0)
 			keyOK = true;
 
-		// Translate int -> enum class
-		switch (ruleCode) {
-			case 0:
-				rule = SwitchRule::ALL_ON;
-				break;
-			case 1:
-				rule = SwitchRule::ALL_OFF;
-				break;
-			default:
-				rule = SwitchRule::NO_RULE;
-				switchOK = true;
-				break;
+		// translate int -> enum
+		switch (ruleCode)
+		{
+		case 0:
+			rule = ALL_ON;
+			break;
+		case 1:
+			rule = ALL_OFF;
+			break;
+		case 2:
+			rule = NO_RULE;
+			switchOK = true;		
+			break;
+		default:
+			break;
+		}
+
+		if (keyOK && switchOK){
+			isOpen = true;
 		}
 	}
 
 	// Get Functions
+	Point getPos() const { return pos; }
+	int getDoorID() const { return doorID; }
 	int getDestination() const { return destRoom; }
 	int getNeededKeys() const { return neededKeys; }
-	SwitchRule getRule() const { return rule; }
+	int getRule() const { return rule; }
 	bool checkIsOpen() const { return isOpen; }
 	bool getKeyStatus() const { return keyOK; }
 	bool getSwitchStatus() const { return switchOK; }
-	bool needsKey() const { return getNeededKeys() > 0; }
+	char getFigure() const { return figure; }
 
 	// Update Functions
-	void updateKeyOK() { keyOK = true; }			// all keys for the door have been used
-	void updateSwitchOK(bool ok) {switchOK = ok;}   // Changes switch flag on/off when toggles
-	void open() { isOpen = true; }					// Opens the door once all requirements are met
-	void useKey() { neededKeys--; }					// Decreases the number of required keys by one.
+	void updateKeyOK() {           // Changes key flag to true meaning all keys for the door have been used
+		keyOK = true;
+	}
+	void updateSwitchOK(bool ok) {      // Changes switch flag - can change back to false since you can turn a switch back off\on
+		switchOK = ok;
+	}
+	void open() { isOpen = true; }          // Opens the door once all requirements are met
+	void useKey() { neededKeys--; }           // Decreases the number of required keys by one.
+
 
 };

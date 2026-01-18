@@ -1,67 +1,8 @@
 #include "Screen.h"
-#include "Templates.h"
 #include <iostream>
-#include <sstream>
 
-// LEGEND
-void LegendArea::drawLegend(const std::vector<Player>& players) const {
-	if (!exists) return;
-
-	int x0 = topLeft.getX();
-	int y0 = topLeft.getY();
-
-	auto print = [x0, y0](int relativeX, int relativeY, const std::string& text) {
-		Utils::print(x0 + relativeX, y0 + relativeY, text);
-	};
-
-	// 1. Clear entire legend area
-	for (int y = 0; y < LEGEND_HEIGHT; ++y) {
-		print(0, y, std::string(LEGEND_WIDTH, ' '));
-	}
-
-	// 2. Draw frame
-	// Top border + bottom border
-	std::string horizontalEdge = std::string(1, LEGEND_CORNER) +
-								 std::string(LEGEND_WIDTH - 2, LEGEND_H_BORDER) +
-								 std::string(1, LEGEND_CORNER);
-	print(0, 0, horizontalEdge);
-	print(0, LEGEND_HEIGHT - 1, horizontalEdge);
-
-	// Side borders
-	for (int y = 1; y < LEGEND_HEIGHT - 1; ++y) {
-		print(0, y, std::string(1, LEGEND_V_BORDER)); // left
-		print(LEGEND_WIDTH - 1, y, std::string(1, LEGEND_V_BORDER)); // right
-	}
-
-	// 3. Draw content (inside frame)
-	int contentX = 1;
-	int contentY = 1;
-	// --- Header ---
-	print(contentX+3, contentY, "SCORE  LIVES  INV");
-
-	// Line 2
-	for (const auto& player : players) {
-		int idx = static_cast<int>(&player - &players[0]);
-		int rowY = contentY + 1 + idx; // different line to each player
-
-		// player's name & score
-		std::string nameScore = "P" + std::to_string(idx + 1) + ": " + std::to_string(player.getScore());
-		print(contentX, rowY, nameScore);
-
-		// life
-		std::string hearts; // empty char
-		for (int j = 0; j < player.getLife(); ++j) hearts += "<3 ";
-		print(9, rowY, hearts);
-
-		// inventory
-		char invChar = ItemTypeUtils::toChar(player.getInventory().type);
-		std::string invStr = (invChar == ' ' ? "-" : std::string(1, invChar));
-		print(19, rowY, invStr);
-	}
-}
-
-// SCREEN
 // Init Functions
+
 void Screen::setMap(const char* map[SCREEN_HEIGHT])
 {
 	// creating board for constant screens (menu, final etc..)
@@ -71,9 +12,9 @@ void Screen::setMap(const char* map[SCREEN_HEIGHT])
 }
 
 /*
- * Loads a full screen definition from a file
- * Handles map loading, object creation, and rule parsing
- * Returns false if a fatal error occurs
+ * Loads a full screen definition from a file.
+ * Handles map loading, object creation, and rule parsing.
+ * Returns false if a fatal error occurs.
  */
 bool Screen::loadScreenFromFile(const std::string& filename, std::string& errorMsg, std::string& warningMsg)
 {
@@ -108,7 +49,7 @@ bool Screen::loadMapFromFile(std::ifstream& file, const std::string& filename, s
 			return false;
 		}
 		// Each line must be wide enough
-		if (static_cast<int>(line.length() < SCREEN_WIDTH))
+		if ((int)line.length() < SCREEN_WIDTH)
 		{
 			errorMsg = "Map from file:" + filename + "\nLine " + std::to_string(y) + " is too short";
 			return false;
@@ -121,7 +62,7 @@ bool Screen::loadMapFromFile(std::ifstream& file, const std::string& filename, s
 			if (c == LEGEND)
 			{
 				// Legend anchor must appear exactly once
-				if (legend.doesExists())
+				if (legend.exists)
 				{
 					errorMsg = "Map from file:" + filename + "\nMultiple legend anchors found";
 					return false;
@@ -150,7 +91,7 @@ bool Screen::loadMapFromFile(std::ifstream& file, const std::string& filename, s
 		}
 	}
 	// Legend must exist
-	if (!legend.doesExists())
+	if (!legend.exists)
 	{
 		errorMsg = "Map file: " + filename + "\n"
 			       "Legend is missing";	
@@ -184,6 +125,7 @@ bool Screen::buildObjectsFromBoard(std::string& error)
 void Screen::handleChar(char c, int x, int y)
 {
 	// Creates a specific game object based on a board character.
+	
 	// ----- Door -----
 	if (c >= DOOR_MIN_CHAR && c <= DOOR_MAX_CHAR)
 	{
@@ -193,26 +135,23 @@ void Screen::handleChar(char c, int x, int y)
 	// ----- Key -----
 	else if (c == BOARD_KEY)
 	{
-		int idx = static_cast<int>(keys.size());
-		addKey(Key(Point(x, y), -1, idx));
+		addKey(Key(Point(x, y), -1));
 	}
 	// ----- Bomb -----
 	else if (c == BOARD_BOMB)
 	{
-		int idx = static_cast<int>(bombs.size());
-		addBomb(Bomb(Point(x, y), idx));
-	}
-	// ----- Torch -----
-	else if (c == BOARD_TORCH)
-	{
-		int idx = static_cast<int>(torches.size());
-		addTorch(Torch(Point(x, y), idx));
+		addBomb(Bomb(Point(x, y)));
 	}
 	// ----- Switch -----
 	else if (c == BOARD_SWITCH_OFF || c == BOARD_SWITCH_ON)
 	{
 		bool state = (c == BOARD_SWITCH_ON);
 		addSwitch(Switch(Point(x, y), -1, state));
+	}
+	// ----- Torch -----
+	else if (c == BOARD_TORCH)
+	{
+		addTorch(Torch(Point(x, y)));
 	}
 	else if (c == BOARD_RIDDLE)
 	{
@@ -235,7 +174,7 @@ bool Screen::readDataFromFile(std::ifstream& file, const std::string& filename, 
 		++lineNumber;
 
 		// Skip empty lines 
-		const size_t firstChar = line.find_first_not_of(" \t\r\n");
+		size_t firstChar = line.find_first_not_of(" \t\r\n");
 		if (firstChar == std::string::npos)
 			continue;
 
@@ -246,12 +185,11 @@ bool Screen::readDataFromFile(std::ifstream& file, const std::string& filename, 
 		std::string ruleError;
 		if (!parseDataLine(line, ruleError))
 		{
-			std::stringstream ss;
-			ss << "Screen file: " << filename
-			   << "\nLine " << lineNumber
-			   << ": " << ruleError;
-
-			errorMsg = ss.str();			return false;
+			errorMsg =
+				"Screen file: " + filename +
+				"\nLine " + std::to_string(lineNumber) + ": " +
+				ruleError;
+			return false;
 		}
 	}
 
@@ -265,7 +203,7 @@ bool Screen::parseDataLine(const std::string& line, std::string& errorMsg)
 
 	ss >> type;
 	int x, y;
-	std::string tmp;    // if there's a problem check if it's ok
+	std::string tmp;    // if theres a problem check if its ok
 
 	if (type == "DARK")
 	{
@@ -277,10 +215,10 @@ bool Screen::parseDataLine(const std::string& line, std::string& errorMsg)
 	}
 	else if (type == "DOOR")
 	{
-		int doorID, isOpen, doorKeys, rule;
+		int doorID, keys, rule;
 
 	    // Expected structured format
-		if (!(ss >> x >> y >> tmp >> doorID >> tmp >> isOpen >> tmp >> doorKeys >> tmp >> rule))
+		if (!(ss >> x >> y >> tmp >> doorID >> tmp >> keys >> tmp >> rule))
 		{
 			errorMsg = "Invalid Door rule format" ;
 			return false;
@@ -295,7 +233,7 @@ bool Screen::parseDataLine(const std::string& line, std::string& errorMsg)
 			return false;
 		}
 
-		d->applyRules(doorID, doorKeys, isOpen != 0, rule);
+		d->applyRules(doorID, keys, rule);
 	}
 	else if (type == "KEY")
 	{
@@ -337,7 +275,7 @@ bool Screen::parseDataLine(const std::string& line, std::string& errorMsg)
 			return false;
 		}
 
-		sw->setDoorID(doorID);
+		sw->setDoorId(doorID);
 	}
 	else if (type == "TELEPORT")
 	{
@@ -391,16 +329,15 @@ bool Screen::addTeleporterPair(Point p1, Point p2, std::string& errorMsg)
 	}
 	// Check for duplicate teleporter at same position
 	for (const auto& tp : teleporters) {
-		Point p=tp.getP1();
-		if (p == p1 || p == p2) {
+		if (tp.p1 == p1 || tp.p1 == p2) {
 			errorMsg = "Duplicate teleporter definition at (" +
-				std::to_string(p.getX()) + "," + std::to_string(p.getY()) + ")";
+				std::to_string(tp.p1.getX()) + "," + std::to_string(tp.p1.getY()) + ")";
 			return false;
 		}
 	}
 	// All good - add it
-	teleporters.emplace_back( p1, p2 );
-	teleporters.emplace_back( p2, p1 );
+	teleporters.push_back({ p1, p2 });
+	teleporters.push_back({ p2, p1 });
 	return true;
 }
 
@@ -483,28 +420,28 @@ bool Screen::isSpringBase(int x, int y, Direction& dir) const
 	if (y > 0 && isWall({ x, y - 1 }))
 	{
 		if (isSpring({ x,y + 1 })) {
-			dir = Direction::DOWN;
+			dir = DOWN;
 			return true;
 		}
 	}
 	// Wall below -> spring goes UP
 	if (y < SCREEN_HEIGHT - 1 && isWall({ x, y + 1 })) {
 		if (isSpring({ x,y - 1 })) {
-			dir = Direction::UP;
+			dir = UP;
 			return true;
 		}
 	}
 	// Wall to the left -> spring goes RIGHT
 	if (x > 0 && isWall({ x - 1, y })) {
 		if (isSpring({ x + 1,y })) {
-			dir = Direction::RIGHT;
+			dir = RIGHT;
 			return true;
 		}
 	}
 	// Wall to the right -> spring goes LEFT
 	if (x < SCREEN_WIDTH - 1 && isWall({ x + 1, y })) {
 		if (isSpring({ x - 1,y })) {
-			dir = Direction::LEFT;
+			dir = LEFT;
 			return true;
 		}
 	}
@@ -548,7 +485,7 @@ void Screen::collectObstacleDFS(int x, int y, bool visited[][SCREEN_HEIGHT], std
 
 	// Mark cell as visited and add it to the obstacle body
 	visited[x][y] = true;
-	body.emplace_back(x, y);
+	body.push_back(Point(x, y));
 
 	// Explore neighboring cells
 	collectObstacleDFS(x + 1, y, visited, body);
@@ -557,7 +494,7 @@ void Screen::collectObstacleDFS(int x, int y, bool visited[][SCREEN_HEIGHT], std
 	collectObstacleDFS(x, y - 1, visited, body);
 }
 
-bool Screen::isValidBoardChar(char c)
+bool Screen::isValidBoardChar(char c) const
 {	// Checks whether a character is allowed in the screen map.
 	if (c >= DOOR_MIN_CHAR && c <= DOOR_MAX_CHAR) 
 		return true;
@@ -585,15 +522,12 @@ bool Screen::isValidBoardChar(char c)
 
 bool Screen::validateLegendPlacement(std::string& errorMsg) const
 {   // Validates that the legend does not overlap forbidden board elements.
-	if (!legend.doesExists())
+	if (!legend.exists)
 		return true;
 
-	Point topLeft = legend.getTopLeft();
-	Point bottomRight = legend.getBottomRight();
-
-	for (int y = topLeft.getY(); y <= bottomRight.getY(); ++y)
+	for (int y = legend.topLeft.getY(); y <= legend.bottomRight.getY(); ++y)
 	{
-		for (int x = topLeft.getX(); x <= bottomRight.getX(); ++x)
+		for (int x = legend.topLeft.getX(); x <= legend.bottomRight.getX(); ++x)
 		{
 			char c = board[x][y];
 
@@ -634,13 +568,23 @@ bool Screen::validateDoors(int numRooms, std::string& errorMsg) const
 	return true;
 }
 
+// Objects related Functions
+void Screen::addDarkArea(const Point& topLeft, const Point& bottomRight)
+{
+	darkAreas.emplace_back(DarkArea{ topLeft, bottomRight });
+}
+
+void Screen::addObstacle(const Obstacle& ob)
+{
+	obstacles.emplace_back(ob);
+}
 
 void Screen::clearRoom()
 {
 	// clear board
-	for (auto & x : board)
-		for (char & y : x)
-			y = ' ';
+	for (int x = 0; x < SCREEN_WIDTH; ++x)
+		for (int y = 0; y < SCREEN_HEIGHT; ++y)
+			board[x][y] = ' ';
 
 	// clear illumination
 	clearIllumination();
@@ -679,7 +623,7 @@ void Screen::drawChar(const Point& p,const char c)
 	}
 }
 
-void Screen::erasePoint(const Point& p)
+void Screen::erase(const Point& p)
 {
 	if (Point::checkLimits(p)) {
 		board[p.getX()][p.getY()] = ' ';
@@ -694,7 +638,7 @@ void Screen::drawScreen()
 }
 
 // Prints the entire board buffer to the console.
-void Screen::drawBase() const
+void Screen::drawBase()                       
 {
 	for (int y = 0; y < SCREEN_HEIGHT; ++y)
 	{
@@ -712,18 +656,10 @@ void Screen::drawBase() const
 	}
 }
 
-template <typename T>
-void Screen::drawCollectibleVector(const std::vector<T>& items) {
-	for (const auto& item : items) {
-		if (item.isActive()) {
-			drawChar(item.getPos(), item.getFigure());
-		}
-	}
-}
-
 // Draws all visible objects onto the screen.
 void Screen::drawItems()
 {
+
 	for (const auto& d : doors) {
 		Point p = d.getPos();
 		char fig = d.getFigure();
@@ -736,15 +672,38 @@ void Screen::drawItems()
 		drawChar(p, fig);
 	}
 
-	drawCollectibleVector(keys);
-	drawCollectibleVector(bombs);
-	drawCollectibleVector(torches);
+	for (const auto& k : keys) {
+		if (k.isActive())
+		{
+			Point p = k.getPos();
+			char fig = k.getFigure();
+			drawChar(p, fig);
+		}
+	}
+
+	for (const auto& b : bombs) {
+		if (b.isActive())
+		{
+			Point p = b.getPos();
+			char fig = b.getFigure();
+			drawChar(p, fig);
+		}
+	}
 
 	for (const auto& r : riddles) {
 		if (!r.isSolved())
 		{
 			Point p = r.getPos();
 			char fig = r.getFigure();
+			drawChar(p, fig);
+		}
+	}
+
+	for (const auto& t : torches) {
+		if (t.isActive())
+		{
+			Point p = t.getPos();
+			char fig = t.getFigure();
 			drawChar(p, fig);
 		}
 	}
@@ -769,6 +728,7 @@ void Screen::drawItems()
 			drawChar(p, fig);
 		}
 	}
+
 }
 
 // Functions that check objects
@@ -796,30 +756,34 @@ bool Screen::isCellFree(const Point& pos) const
 }
 
 
-bool Screen::isWall(const Point& p) const {
+bool Screen::isWall(const Point& p) const
+{
 	char c = charAt(p);
 	return c == BOARD_WALL || c == WALL_VERT || c == WALL_HORIZ;
 }
 
-bool Screen::isItem(const Point& p) const {
-	char c = charAt(p);
-	return c == BOARD_KEY || c == BOARD_BOMB || c == BOARD_TORCH;
+bool Screen::isItem(const Point& p) const
+{
+	return charAt(p) == BOARD_KEY || charAt(p) == BOARD_BOMB || charAt(p) == BOARD_TORCH;
 }
 
-bool Screen::isDoor(const Point& p) const {
+bool Screen::isDoor(const Point& p) const
+{
 	return isdigit(charAt(p));
 }
 
-bool Screen::isSwitch(const Point& p) const {
-	char c = charAt(p);
-	return c == BOARD_SWITCH_ON || c == BOARD_SWITCH_OFF;
+bool Screen::isSwitch(const Point& p) const
+{
+	return charAt(p) == BOARD_SWITCH_ON || charAt(p) == BOARD_SWITCH_OFF;
 }
 
-bool Screen::isObstacle(const Point& p) const {
+bool Screen::isObstacle(const Point& p) const  
+{
 	return charAt(p) == BOARD_OBSTACLE;
 }
 
-bool Screen::isSpring(const Point& p) const {
+bool Screen::isSpring(const Point& p) const
+{
 	return charAt(p) == BOARD_SPRING;
 }
 
@@ -848,30 +812,34 @@ Obstacle* Screen::getObstacleAt(Point p)
 	return nullptr;   // no obstacle at this position
 }
 
-Riddle* Screen::getRiddleAt(const Point &p) {
-	for (auto& riddle : riddles) {
-		if (riddle.getPos() == p && !riddle.isSolved()) {
-			return &riddle;
-		}
-	}
-	return nullptr;
+ItemType Screen::getItemType(const Point& p) const    
+{
+	char c = charAt(p);
+	if (c == BOARD_KEY) return KEY;
+
+	if (c == BOARD_BOMB) return BOMB;
+	
+	if (c == BOARD_TORCH) return TORCH;
 }
 
 Door& Screen::getDoorById(int id)
 {
 	// Search by logical doorID
-	for (auto & door : doors) {
-		if (door.getDoorID() == id) {
-			return door;
+	for (int i = 0; i < doors.size(); i++)
+	{
+		if (doors[i].getDoorID() == id)
+		{
+			return doors[i];
 		}
 	}
-	throw std::runtime_error("Error: Door ID not found in getDoorById");   // needed otherwise get error on Mac
+	throw std::runtime_error("Error: Door ID not found in getDoorById");   // needed otherwise get error on mac
 }
+
 
 Point Screen::getTeleportDest(const Point& p) const { // returns portal dest
 	for (const auto& pair : teleporters) {
-		Point dest = pair.getPartner(p);
-		if (dest != p) return dest;
+		if (pair.p1 == p) return pair.p2;
+		if (pair.p2 == p) return pair.p1;
 	}
 	return p;
 }
@@ -880,37 +848,52 @@ Point Screen::getTeleportDest(const Point& p) const { // returns portal dest
 // Helper Functions
 
 // Adding a collected item to player's inventory
-void Screen::collectItemAt(Player& player, const Point& p)
+void Screen::collectKey(Player& player, const Point& p)
 {
-	Collectible* item = collect(p);
-	if (item && item->isActive() && item->canPickUp()) {
-		player.collectItem(item->getItemID());
-		item->deactivate();
-		erasePoint(p);
+	for (int i = 0; i < keys.size(); i++) {
+		if (keys[i].isActive() && keys[i].getPos().isAt(p)) {
+
+			player.collectItem(KEY, i);
+			keys[i].deactivate();
+			erase(p);
+			break;
+		}
 	}
 }
 
-Collectible* Screen::collect(const Point& p) {
-	if (auto* k = getItemAt(keys, p))    return k;
-	if (auto* b = getItemAt(bombs, p))   return b;
-	if (auto* t = getItemAt(torches, p)) return t;
-	return nullptr;
-}
+void Screen::collectBomb(Player& player, const Point& p)
+{
+	for (int i = 0; i < bombs.size(); i++) {
+		if (bombs[i].isActive() && !bombs[i].isTicking() && bombs[i].getPos().isAt(p)) {
 
-Collectible* Screen::getStoredItem(const Item &id) {
-	if (id.type == ItemType::NONE || id.Index == -1) return nullptr;
-	switch (id.type) {
-		case ItemType::KEY:   return &keys[id.Index];
-		case ItemType::BOMB:  return &bombs[id.Index];
-		case ItemType::TORCH: return &torches[id.Index];
-		default:              return nullptr;
+			player.collectItem(BOMB, i);
+			bombs[i].deactivate();
+			erase(p);
+			break;
+		}
 	}
 }
 
-void Screen::pushObstacle(Obstacle& ob, Direction dir) {
-	// Clears obstacle from board and moves it atomically
-	for (const Point& cell : ob.getBody()) { // Remove all current obstacle cells from the board
-		erasePoint(cell);
+void Screen::collectTorch(Player& player, const Point& p)
+{
+	for (int i = 0; i < torches.size(); i++)
+	{
+		if (torches[i].isActive() && torches[i].getPos().isAt(p))
+		{
+			player.collectItem(TORCH, i);
+			torches[i].deactivate();
+			erase(p);
+			break;
+		}
+	}
+}
+
+void Screen::pushObstacle(Obstacle& ob, Direction dir)
+{    // Clears obstacle from board and moves it atomically
+
+	for (const Point& cell : ob.getBody())   	// Remove all current obstacle cells from the board
+	{
+		erase(cell);
 	}
 	// Move the entire obstacle body
 	ob.move(dir);
@@ -921,32 +904,33 @@ void Screen::pushObstacle(Obstacle& ob, Direction dir) {
 void Screen::setLegendAnchor(int x, int y)
 {
 	// Sets the legend top left anchor and calculates its bounding rectangle.
-	Point topLeft(x, y);
-	Point bottomRight(
+	legend.topLeft = Point(x, y);
+	legend.bottomRight = Point(
 		x + LEGEND_WIDTH - 1,
 		y + LEGEND_HEIGHT - 1
 	);
-
-	legend = LegendArea(topLeft, bottomRight, true);
-	legend.setExists(true);
+	legend.exists = true;
 }
 
 bool Screen::isLegendCell(const Point& p) const
 {   // Checks whether a given point lies inside the legend area.
-	return legend.isInside(p);
+	if (!legend.exists)
+		return false;
+
+	return p.getX() >= legend.topLeft.getX() &&
+		p.getX() <= legend.bottomRight.getX() &&
+		p.getY() >= legend.topLeft.getY() &&
+		p.getY() <= legend.bottomRight.getY();
 }
 
 void Screen::clearLegendAreaFromBoard()
 {
-	if (!legend.doesExists())
+	if (!legend.exists)
 		return;
 
-	Point topLeft=legend.getTopLeft();
-	Point BottomRight=legend.getBottomRight();
-
-	for (int y = topLeft.getY(); y <= BottomRight.getY(); ++y)
+	for (int y = legend.topLeft.getY(); y <= legend.bottomRight.getY(); ++y)
 	{
-		for (int x = topLeft.getX(); x <= BottomRight.getX(); ++x)
+		for (int x = legend.topLeft.getX(); x <= legend.bottomRight.getX(); ++x)
 		{
 			board[x][y] = ' ';
 		}
@@ -958,8 +942,12 @@ void Screen::clearLegendAreaFromBoard()
 bool Screen::isVisible(const Point& p) const
 {
 	// Determines whether the given cell should be visible on screen
-	if (!isInDarkArea(p) || isIlluminated(p))
-		return true; // cell isn't in a dark area or illuminated by a torch
+
+	if (!isInDarkArea(p))  // cell isn't in a dark area
+		return true;
+
+	if (isIlluminated(p)) // cell is illuminated by a torch
+		return true;
 
 	return false;
 }
@@ -967,9 +955,17 @@ bool Screen::isVisible(const Point& p) const
 bool Screen::isInDarkArea(const Point& p) const
 {
 	// Checks whether the given position lies within any predefined dark area
-	for (const DarkArea& area : darkAreas) {
-		if (area.isInside(p)) return true;
+	for (const DarkArea& area : darkAreas)
+	{
+		if (p.getX() >= area.topLeft.getX() &&
+			p.getX() <= area.bottomRight.getX() &&
+			p.getY() >= area.topLeft.getY() &&
+			p.getY() <= area.bottomRight.getY())
+		{
+			return true;
+		}
 	}
+
 	return false;
 }
 
@@ -984,17 +980,23 @@ void Screen::illuminateMap(const Point& center)
 	int cx = center.getX();
 	int cy = center.getY();
 
-	for (int dy = -2; dy <= 2; dy++) {
-		for (int dx = -2; dx <= 2; dx++) {
+	for (int dy = -2; dy <= 2; dy++)
+	{
+		for (int dx = -2; dx <= 2; dx++)
+		{
 			// Skip points outside the illumination radius
-			if (abs(dx) + abs(dy) > 3) continue;
+			if (abs(dx) + abs(dy) > 3)
+				continue;
 
 			int x = cx + dx;
 			int y = cy + dy;
 
-			if (Point::checkLimits(Point(x, y))) {
-				illuminated[x][y] = true; 	// Always illuminate the center cell
-			}
+			// Ignore out-of-bounds cells
+			if (!Point::checkLimits(Point(x, y)))
+				continue;
+
+			// Always illuminate the center cell
+			illuminated[x][y] = true;
 		}
 	}
 }
@@ -1002,16 +1004,19 @@ void Screen::illuminateMap(const Point& center)
 void Screen::clearIllumination()
 {
 	// Clears all illumination marks before recalculating lighting.
-	for (int y = 0; y < SCREEN_HEIGHT; y++) {
-		for (auto & x : illuminated) {
-			x[y] = false;
+	for (int y = 0; y < SCREEN_HEIGHT; y++)
+	{
+		for (int x = 0; x < SCREEN_WIDTH; x++)
+		{
+			illuminated[x][y] = false;
 		}
 	}
 }
 
 
-// These functions remove objects from the screen's arrays
-// They are mainly used during bomb explosions
+// These functions remove objects from the screen's arrays.
+// They are mainly used during bomb explosions.
+
 
 bool Screen::removeObjectsAt(const Point& p)
 {
@@ -1040,7 +1045,7 @@ bool Screen::removeSpringAt(const Point& p) {
 
 			if (hitIndex == 0) { //hit index is springs base
 				for (int i = 0; i < it->getCurrSize(); i++) { //fully delete spring so we won't have "flying" links
-					erasePoint(it->getLinkPos(i)); //erase from screen
+					erase(it->getLinkPos(i)); //erase from screen
 				}
 				springs.erase(it); //erase from vector
 				return true;
@@ -1049,7 +1054,7 @@ bool Screen::removeSpringAt(const Point& p) {
 			else {
 				int oldSize = it->getCurrSize();
 				for (int i = hitIndex; i < oldSize; i++) {
-					erasePoint(it->getLinkPos(i)); //erase from screen
+					erase(it->getLinkPos(i)); //erase from screen
 				}
 
 				int linksToRemove = it->getCurrSize() - hitIndex; //logic: how many links were removed
@@ -1061,18 +1066,22 @@ bool Screen::removeSpringAt(const Point& p) {
 	return false;
 }
 
-// remove obstacle using iterators
 void Screen::removeObstacleAt(const Point& p)
 {
-	for (auto obIt = obstacles.begin(); obIt != obstacles.end(); ++obIt)	{
-		auto& body = obIt->getBody();
+	for (size_t i = 0; i < obstacles.size(); i++)
+	{
+		Obstacle& ob = obstacles[i];
+		auto& body = ob.getBody();
 
-		for (auto bodyIt = body.begin(); bodyIt != body.end(); ++bodyIt) {
-			if (*bodyIt == p) {
-				body.erase(bodyIt);
+		for (size_t j = 0; j < body.size(); j++)
+		{
+			if (body[j] == p)
+			{
+				body.erase(body.begin() + j);
 
-				if (body.empty()) {
-					obstacles.erase(obIt);
+				if (body.empty())
+				{
+					obstacles.erase(obstacles.begin() + i);
 				}
 				return;
 			}
@@ -1083,21 +1092,18 @@ void Screen::removeObstacleAt(const Point& p)
 bool Screen::removeTeleporterAt(const Point& p)
 {
 	bool removed = false;
-	auto it = teleporters.begin();
-
-	while (it != teleporters.end()) {
+	for (int i = teleporters.size() - 1; i >= 0; i--)
+	{
 		// if point is p or p dest
-		Point p1=it->getP1();
-		Point p2=it->getP2();
-		if (p1 == p || p2 == p) {
+		if (teleporters[i].p1 == p || teleporters[i].p2 == p)
+		{
 			// screen
-			drawChar(p1, ' ');
-			drawChar(p2, ' ');
+			drawChar(teleporters[i].p1, ' ');
+			drawChar(teleporters[i].p2, ' ');
 			// logic
-			it = teleporters.erase(it);;
+			teleporters.erase(teleporters.begin() + i);
 			removed = true;
 		}
-		else ++it;
 	}
 	return removed;
 }

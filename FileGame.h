@@ -12,27 +12,26 @@ private:
     bool testPassed = false;     
     std::vector<std::string> failures;   // descriptions of test mismatches
 
-    bool validateScreensHeader(std::ifstream &file) const;
-    bool loadStepsFromFile(const std::string& filename);
-    bool loadResultsFromFile(const std::string &filename);
-
     void compareResults();
     void printTestSummary() const;
-
+    bool loadStepsFromFile(const std::string& filename);
+    bool loadResultsFromFile(const std::string& filename);
+    bool validateScreensHeader(std::ifstream& file);
 
 protected:
     void handleInput() override;     // Reads input from steps file instead of keyboard
-    void render() override;
+    void render() override;  
+    void onGameEnd() override;
+    void onPlayerDeath() override;
+    void showMessage(const std::string& msg) override;
     int getDelay() const override {  // Controls game speed (no delay in silent mode)
         return silentMode ? 0 : LOAD_DELAY;
     }
-    bool getRiddleAnswer(Riddle* riddle, bool& outSolved) override;
-    void onPlayerDeath() override;
-    void onGameEnd() override;
 
+    bool getRiddleAnswer(Riddle* riddle, bool& outSolved) override;
 public:
-    explicit FileGame(bool silent) : GameBase(), silentMode(silent) { }
-    ~FileGame () override {delete expectedResults;}
+    explicit FileGame(bool silent);    
+    ~FileGame();
 
     bool loadFileGameResources();
 };

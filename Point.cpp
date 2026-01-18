@@ -12,10 +12,10 @@ bool Point::checkLimits(const Point& p)
 
 // Returns true if the two directions are opposite (UP vs DOWN, LEFT vs RIGHT).
 bool Point::areOpposite(Direction d1, Direction d2) {
-	if (d1 == Direction::UP		&& d2 == Direction::DOWN )	return true;
-	if (d1 == Direction::DOWN	&& d2 == Direction::UP)		return true;
-	if (d1 == Direction::RIGHT  && d2 == Direction::LEFT)	return true;
-	if (d1 == Direction::LEFT	&& d2 == Direction::RIGHT)	return true;
+	if (d1 == UP && d2 == DOWN ) return true;
+	if (d1 == DOWN && d2 == UP) return true;
+	if (d1 == RIGHT && d2 == LEFT) return true;
+	if (d1 == LEFT && d2 == RIGHT) return true;
 	return false;
 }
 
@@ -23,11 +23,11 @@ Direction Point::opposite(Direction dir)
 {
 	switch (dir)
 	{
-	case Direction::RIGHT: return Direction::LEFT;
-	case Direction::LEFT:  return Direction::RIGHT;
-	case Direction::UP:    return Direction::DOWN;
-	case Direction::DOWN:  return Direction::UP;
-	default:    return Direction::STAY;
+	case RIGHT: return LEFT;
+	case LEFT:  return RIGHT;
+	case UP:    return DOWN;
+	case DOWN:  return UP;
+	default:    return STAY;
 	}
 }
 
@@ -36,10 +36,10 @@ Direction Point::opposite(Direction dir)
 Point Point::next(Direction dir) const {
 	Point nextPoint = *this;
 	switch (dir) {
-	case Direction::RIGHT: nextPoint.x++; break;
-	case Direction::LEFT: nextPoint.x--; break;
-	case Direction::UP: nextPoint.y--; break;
-	case Direction::DOWN: nextPoint.y++; break;
+	case RIGHT: nextPoint.x++; break;
+	case LEFT: nextPoint.x--; break;
+	case UP: nextPoint.y--; break;
+	case DOWN: nextPoint.y++; break;
 	default: break;
 	}
 	return nextPoint;

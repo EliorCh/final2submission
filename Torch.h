@@ -1,13 +1,29 @@
 #pragma once
 #include "Point.h"
-#include "Collectible.h"
 
-class Torch : public Collectible {
+class Torch{
+private:
+	Point pos;          // Position on the board
+	char figure = '!';
+	bool active;        // True if torch is on board
+
 public:
-	// Default constructor
-	Torch() : Collectible(Item{ItemType::TORCH, -1},Point(0, 0), BOARD_TORCH, false) {}   // default ctor {}
+	Torch() : pos(0, 0), figure('!'), active(false)   // default ctor 
+	{
+	}
+	Torch(Point _pos)                // custom ctor 
+		: pos(_pos), active(true)
+	{
+	}
 
-	// Custom constructor
-	explicit Torch(Point _pos, int _idx)
-		: Collectible(Item{ItemType::TORCH, _idx}, _pos, BOARD_TORCH, true) {}
+	// Get Functions
+	Point getPos() const { return pos; }
+	char getFigure() const { return figure; }
+	bool isActive() const { return active; }
+	void setPos(Point pos) { this->pos = pos; }
+
+	void activate() { active = true; }          // Marks the torch as available (visible on screen).
+	void deactivate() { active = false; }       // Marks the torch as collected (no longer visible).
+
 };
+

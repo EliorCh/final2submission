@@ -1,7 +1,6 @@
 #pragma once
 #include <thread>
 #include <chrono>
-#include <iostream>
 #include <string>
 
 #ifdef _WIN32
@@ -13,7 +12,6 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <cstdio>
-#include "GameDefs.h"
 #endif
 
 namespace Utils {
@@ -30,14 +28,7 @@ namespace Utils {
     void initConsole();
     void restoreConsole();
 
-    void printCentered(const std::string& text, int y);
-    static int getCenteredX(size_t width, int containerWidth = SCREEN_WIDTH) {
-        return (containerWidth - static_cast<int>(width)) / 2;
-    }
-
-    inline void print(int x, int y, const std::string& text) {
-        gotoxy(x, y);
-        std::cout << text;
-    };
-
 }
+
+constexpr int SCREEN_WIDTH = 80;
+constexpr int SCREEN_HEIGHT = 25;

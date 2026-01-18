@@ -23,8 +23,6 @@ public:
     Riddle(Point p, int id, std::string q, std::string a)
         : pos(p), question(std::move(q)), answer(std::move(a)) {}
 
-    void setSolved() { solved = true; }
-    bool isSolved() { return solved; }
     void setData(const std::string& q, const std::string& a);
     Point getPos() const { return pos; }
     char getFigure() const { return figure; }
