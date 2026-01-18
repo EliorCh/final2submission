@@ -1,8 +1,8 @@
 #pragma once
 #include <thread>
 #include <chrono>
+#include <iostream>
 #include <string>
-#include "Point.h"
 
 #ifdef _WIN32
 #include <conio.h>
@@ -13,10 +13,10 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <cstdio>
+#include "GameDefs.h"
 #endif
 
 namespace Utils {
-    void gotoxy(Point pos);
     void gotoxy(int x, int y);
     bool hasInput();
     char getChar();
@@ -30,7 +30,14 @@ namespace Utils {
     void initConsole();
     void restoreConsole();
 
-}
+    void printCentered(const std::string& text, int y);
+    static int getCenteredX(size_t width, int containerWidth = SCREEN_WIDTH) {
+        return (containerWidth - static_cast<int>(width)) / 2;
+    }
 
-constexpr int SCREEN_WIDTH = 80;
-constexpr int SCREEN_HEIGHT = 25;
+    inline void print(int x, int y, const std::string& text) {
+        gotoxy(x, y);
+        std::cout << text;
+    };
+
+}

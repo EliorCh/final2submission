@@ -1,0 +1,3054 @@
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=1
+handleSprings called! compression=0
+handleSprings called! compression=2
+handleSprings called! compression=0
+handleSprings called! compression=3
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=1
+handleSprings called! compression=0
+handleSprings called! compression=2
+handleSprings called! compression=0
+handleSprings called! compression=3
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings called! compression=0
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=4,9 next=5,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=5,9 next=6,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=6,9 next=7,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=7,9 next=8,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=8,9 next=9,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=9,9 next=10,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=10,9 next=11,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=11,9 next=12,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=12,9 next=13,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=13,9 next=14,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=14,9 next=15,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=15,9 next=16,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=16,9 next=17,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=17,9 next=18,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=18,9 next=19,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=19,9 next=20,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=20,9 next=21,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=21,9 next=22,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=22,9 next=23,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=23,9 next=24,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=24,9 next=25,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=25,9 next=26,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=26,9 next=27,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=27,9 next=28,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=28,9 next=29,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=29,9 next=30,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=30,9 next=31,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=31,9 next=32,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=32,9 next=33,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=33,9 next=34,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=34,9 next=35,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=35,9 next=36,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=36,9 next=37,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=37,9 next=38,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=38,9 next=39,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=39,9 next=40,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=40,9 next=41,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=41,9 next=42,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=42,9 next=43,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=43,9 next=44,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=44,9 next=45,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=45,9 next=46,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=46,9 next=47,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=47,9 next=48,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=48,9 next=49,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=49,9 next=50,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=50,9 next=51,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=51,9 next=52,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=52,9 next=53,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=53,9 next=54,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=54,9 next=55,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=55,9 next=56,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,9 next=57,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,9 next=57,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,8 next=57,7 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,7 next=57,6 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,6 next=57,5 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,5 next=57,4 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,4 next=57,3 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=1 pos=57,3 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=2 pos=57,2 next=57,1 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=3 pos=57,1 next=57,0 sp=null adj=FOUND adjCurrSize=0
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=57,2 sp=FOUND
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,1 next=58,1 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=58,1 next=59,1 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=59,1 next=60,1 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=60,1 next=60,2 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=60,2 next=60,3 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=60,3 next=60,4 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=60,4 next=60,5 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=60,5 next=59,5 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=59,5 next=58,5 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=58,5 next=57,5 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=57,5 next=56,5 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,5 next=56,4 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,4 next=56,3 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,3 next=56,2 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,2 next=56,1 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=56,1 next=56,0 sp=null adj=FOUND adjCurrSize=3
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=4,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,8 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=2,9 sp=null adj=null
+handleSprings: compression=0 pos=3,9 next=3,10 sp=null adj=null

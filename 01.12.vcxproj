@@ -127,16 +127,20 @@
   <ItemGroup>
     <ClInclude Include="Bomb.h" />
     <ClInclude Include="Door.h" />
-    <ClInclude Include="Game.h" />
+    <ClInclude Include="FileGame.h" />
+    <ClInclude Include="GameBase.h" />
     <ClInclude Include="GameDefs.h" />
     <ClInclude Include="Key.h" />
+    <ClInclude Include="KeyboardGame.h" />
     <ClInclude Include="Maps.h" />
     <ClInclude Include="Obstacle.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="Results.h" />
     <ClInclude Include="Riddle.h" />
     <ClInclude Include="Screen.h" />
     <ClInclude Include="Spring.h" />
+    <ClInclude Include="Steps.h" />
     <ClInclude Include="Switch.h" />
     <ClInclude Include="Templates.h" />
     <ClInclude Include="Torch.h" />
@@ -144,16 +148,22 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Bomb.cpp" />
-    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="FileGame.cpp" />
+    <ClCompile Include="GameBase.cpp" />
+    <ClCompile Include="KeyboardGame.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Obstacle.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Results.cpp" />
     <ClCompile Include="Riddle.cpp" />
     <ClCompile Include="Screen.cpp" />
     <ClCompile Include="Spring.cpp" />
-    <ClCompile Include="Torch.cpp" />
+    <ClCompile Include="Steps.cpp" />
     <ClCompile Include="Utils.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
